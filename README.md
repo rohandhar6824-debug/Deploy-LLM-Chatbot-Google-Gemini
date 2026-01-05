@@ -4,36 +4,27 @@
 🔍 Project Overview:
 
 LLM-Powered Conversations: Leverages Google Gemini 2.0 Flash for natural, context-aware dialogue with full chat history retention
-<dv>
-<dv>
+<br>
 Real-time Streaming: Instant responses with typing animation for smooth user experience
-<dv>
-<dv>
+<br>
 Session Persistence: Maintains conversation context across multiple interactions
-<dv>
-<dv>
+<br>
 Responsive Interface: Clean, mobile-friendly Streamlit UI optimized for all devices
-<dv>
-<dv>
+<br>
 Production Deployed: Live at https://deploy-llm-chatbot-app-gemini.streamlit.app/
-<dv>
-<dv>
+<br>
 Error-Resilient: Graceful handling of API quotas and network conditions
 
 🎯 Learning Outcomes:
 
 Integrating Google's Gemini API with Python web frameworks
-<dv>
-<dv>
+<br>
 Building stateful conversational AI with session management
-<dv>
-<dv>
+<br>
 Creating responsive web UIs using Streamlit
-<dv>
-<dv>
+<br>
 Deploying LLM-powered applications to Streamlit Cloud
-<dv>
-<dv>
+<br>
 Handling real-time API quotas and error states
 
 ⚙️ Technologies & Tools:
